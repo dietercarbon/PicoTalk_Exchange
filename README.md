@@ -1,4 +1,4 @@
-<font size="10">Große Schrift</font> <br>
+<span style="font-size:20px;">Größere Schrift</span> <br>
 ####Themen & Links <br>
 HERZLICHEN DANK an die "Melder" ;-)
 
