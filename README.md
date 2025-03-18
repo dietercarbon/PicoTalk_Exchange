@@ -11,5 +11,8 @@ https://www.picokeys.com/ <br><br>
 Patrick: Website zum Simulieren von Pico-Projekten <br>
 https://wokwi.com/projects/new/micropython-pi-pico <br><br>
 
+Bernhard: Olimex Schaltsteckdose 230V 16A für Arduino, ESP32 und Raspberry Pi PWR-SWITCH <br>
+https://www.clockworkpi.com  <br><br>
+
 Kai: Olimex Schaltsteckdose 230V 16A für Arduino, ESP32 und Raspberry Pi PWR-SWITCH <br>
 https://www.roboter-bausatz.de/p/olimex-schaltsteckdose-230v-16a-fuer-arduino-esp32-und-raspberry-pi-pwr-switch <br><br>
