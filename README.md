@@ -11,7 +11,8 @@ https://www.picokeys.com/ <br><br>
 Patrick: Website zum Simulieren von Pico-Projekten <br>
 https://wokwi.com/projects/new/micropython-pi-pico <br><br>
 
-Bernhard: Olimex Schaltsteckdose 230V 16A für Arduino, ESP32 und Raspberry Pi PWR-SWITCH <br>
+Bernhard: PicoCalc ist ein neuer Handheld. Dieser basiert auf einem Raspberry Pi, wobei für die Eingabe von Text eine entsprechende Tastatur bereitsteht.
+Optisch ist das Modell deutlich an einen Taschenrechner angelehnt, bei der Rechenkapazität ergeben sich doch deutlich Einschränkungen  <br>
 https://www.clockworkpi.com  <br><br>
 
 Kai: Olimex Schaltsteckdose 230V 16A für Arduino, ESP32 und Raspberry Pi PWR-SWITCH <br>
