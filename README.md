@@ -1,4 +1,4 @@
-<font size="6">Große Schrift</font> <br>
+<font size="10">Große Schrift</font> <br>
 ####Themen & Links <br>
 HERZLICHEN DANK an die "Melder" ;-)
 
