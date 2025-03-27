@@ -1,6 +1,14 @@
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
+
+
+6  Dieter: wenn das so funktioniert wie ich GLAUBE, kann "Pimoroni Presto" m.E. ein Gamechanger werden! <br>
+... habe vorsichtshalber 2 bestellt ... und werde berichten ... spätestens im nächsten PicoTalk. <br>
+https://shop.pimoroni.com/products/presto?variant=54894104019323 <br>
+... und ein erster Erfahrungsbericht von Kevin McAleer: <br>
+https://www.youtube.com/watch?v=9F3R4p2UXoo <br> <br>
+
 5  Michel: Das erste ist eine 19“-Workstation als open source Hardware-Projekt für die eigene Werkstatt. Das finde ich sehr interessant, da es Modular ist. Aktuell fehlen mir noch einige Teile, die ich gerne hätte, aber grundsätzlich sobald die da sind, könnte man damit tolle Dinge tun. <br>
 https://github.com/Synthron/ModLab <br><br>
 
