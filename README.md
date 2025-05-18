@@ -3,15 +3,12 @@ HERZLICHEN DANK an die "Melder" !!! <br><br>
 
 
 
-9  Johannes (Marko; JM): beschreibt eine selbstkonzipierte "remote Meldestelle" auf Basis LoRa P2P Verbindung, autonom und ohne Gateway.<br>
+8  Johannes (Marko; JM): beschreibt eine selbstkonzipierte "remote Meldestelle" auf Basis LoRa P2P Verbindung, autonom und ohne Gateway.<br>
 Beschreibung siehe "JM_02 ...".<br>
 Programme siehe: https://github.com/trapperjoe/  im Repository "Ereignismeldung".<br> <br>
 
-8  Kai (Fuchsberger; KF): beschreibt einen selbstkonzipierten "Stromausfallmelder".<br>
+7  Kai (Fuchsberger; KF): beschreibt einen selbstkonzipierten "Stromausfallmelder".<br>
 Beschreibung und Programme siehe "KF_02 ...".<br> <br>
-
-7  Patrick (Schnabel; PS): stellt eine selbstentwickelte Minimal-Schaltung zum "Auto Power Off" vor.<br>
-... er beabsichtigt, diese den PicoTalkern anzubieten. <br> <br>
 
 6  Dieter (Carbon; DC): wenn das so funktioniert wie ich GLAUBE, kann "Pimoroni Presto" m.E. ein Gamechanger werden! <br>
 ... habe vorsichtshalber 2 bestellt ... und werde berichten ... spätestens im nächsten PicoTalk. <br>
