@@ -26,11 +26,11 @@ https://github.com/Synthron/ModLab <br><br>
 "Fido2 Passkey - Looking for a secure login with 2FA? With Pico Fido you will have a Fido2 Passkey in your hands." <br>
 https://www.picokeys.com/ <br><br>
 
-3  Patrick (Schnabel; PS): Website zum Simulieren von Pico-Projekten <br>
+3  Patrick (Schnabel; PS): Website zum Simulieren von Pico-Projekten. <br>
 https://wokwi.com/projects/new/micropython-pi-pico <br><br>
 
-2  Bernhard (Betz;BB): PicoCalc ist ein neuer Handheld. Dieser basiert auf einem Raspberry Pi, wobei für die Eingabe von Text eine entsprechende Tastatur bereitsteht.
-Optisch ist das Modell deutlich an einen Taschenrechner angelehnt, bei der Rechenkapazität ergeben sich doch deutlich Einschränkungen  <br>
+2  Bernhard (Betz; BB): PicoCalc ist ein neuer Handheld. Dieser basiert auf einem Raspberry Pi, wobei für die Eingabe von Text eine entsprechende Tastatur bereitsteht.
+Optisch ist das Modell deutlich an einen Taschenrechner angelehnt, bei der Rechenkapazität ergeben sich doch deutlich Einschränkungen.  <br>
 https://www.clockworkpi.com  <br><br>
 
 1  Kai (Fuchsberger; KF): Olimex Schaltsteckdose 230V 16A für Arduino, ESP32 und Raspberry Pi PWR-SWITCH <br>
