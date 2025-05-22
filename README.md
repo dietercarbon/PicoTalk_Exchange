@@ -14,7 +14,7 @@ action()  #  Der %-Operator berechnet den Rest einer Division<br>
 Man sollte (ggf. mehrmals) den WDT in der Hauptschleife "füttern", damit dieser nicht ungewollt zuschlägt. <br>
 Ich werde jetzt mal  ausprobieren, ob eine entspr. Änderung in dem Programmcode hilft, die Messungen dauerhaft stabil zu betreiben. In ein paar Monaten kann ich dann zuverlässig sagen, ob diese Lösung stabil läuft. Wichtig für mich ist, dass der Pico sich immer wieder selbst neu startet, wenn ein unerwartetes Problem auftritt. Wenn dann mal ein paar Messungen nicht "ankommen", spielt das keine große Rolle. <br>
 P.S.<br> 
-Der maximale Timeout-Wert für den Watchdog-Timer (WDT) in MicroPython für RP2040-Geräte ist 8388 Millisekunden (8,388 Sekunden). Dieser Wert muss in Millisekunden angegeben werden. Sobald der WDT gestartet ist, kann der Timeout-Wert nicht mehr geändert werden. Der WDT kann auch nicht gestoppt werden.<br> <br>
+Der maximale Timeout-Wert für den Watchdog-Timer (WDT) in MicroPython für RP2040-Geräte ist 8388 Millisekunden (8,388 Sekunden). Dieser Wert muss in Millisekunden angegeben werden. Sobald der WDT gestartet ist, kann der Timeout-Wert nicht mehr geändert werden. Der WDT kann auch nicht gestoppt werden."<br> <br>
 
 9  Uli (Romahn; UR): beschreibt liebevoll und einsteiger-geeignet (!) eine selbstentwickelte Ampelanlage für Bahnübergang mit automatischer Zug-Annäherungserkennung.<br>
 Beste Grüße an die Enkel, die tatkräftig mitgewirkt haben.<br>
