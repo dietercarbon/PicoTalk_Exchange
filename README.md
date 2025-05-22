@@ -3,6 +3,19 @@ HERZLICHEN DANK an die "Melder" !!! <br><br>
 
 
 
+10  Johannes hat den Watch Dog Timers (WDT) in Micropython genauer untersucht:<br>
+"Ich habe mir das Ganze jetzt noch mal genauer angeschaut und das eigentliche Problem war, dass ich nur ca. ein Mal pro Minute eine gemachte Messung an einen Server melden wollte (einfach um Strom zu sparen für eine Messgröße, die  sich kaum ändert innerhalb einer Minute...) , aber der WDT in Micropython einen Maximalwert von ca. 8 Sekunden hat (s. Aussage unten). Zudem kann es Probleme im WLAN geben, wenn man zu viele Messwerte in kurzer Zeit übertragen will.<br> 
+Mittlerweile experimentiere ich mit einer sehr einfachen Lösung wie folgt:Man stellt den WDT z.B. fest auf 6 Sekunden ein und führt dann in der Hauptschleife nur bei  jedem zehnten Schleifendurchgang eine Messung tatsächlich durch. Die Hauptschleife selber sollte dann keine großen Verzögerungen oder Wartezeiten haben.  
+Beispiel:<br>
+Man kann den %-Operator nutzen, um zu erreichen, dass eine Aktion z.B. nur bei jedem zehnten Schleifendurchgang tatsächlich ausgeführt wird.  
+if (counter % 10)  == 0:     # Die Variable counter wird  bei jedem Schleifendurchgang um eins erhöht.<br>
+action()                     #  Der %-Operator berechnet den Rest einer Division<br>
+
+Man sollte (ggf. mehrmals) den WDT in der Hauptschleife "füttern", damit dieser nicht ungewollt zuschlägt. <br>
+Ich werde jetzt mal  ausprobieren, ob eine entspr. Änderung in dem Programmcode hilft, die Messungen dauerhaft stabil zu betreiben. In ein paar Monaten kann ich dann zuverlässig sagen, ob diese Lösung stabil läuft. Wichtig für mich ist, dass der Pico sich immer wieder selbst neu startet, wenn ein unerwartetes Problem auftritt. Wenn dann mal ein paar Messungen nicht "ankommen", spielt das keine große Rolle. <br>
+P.S.<br> 
+Der maximale Timeout-Wert für den Watchdog-Timer (WDT) in MicroPython für RP2040-Geräte ist 8388 Millisekunden (8,388 Sekunden). Dieser Wert muss in Millisekunden angegeben werden. Sobald der WDT gestartet ist, kann der Timeout-Wert nicht mehr geändert werden. Der WDT kann auch nicht gestoppt werden.<br> <br>
+
 9  Uli (Romahn; UR): beschreibt liebevoll und einsteiger-geeignet (!) eine selbstentwickelte Ampelanlage für Bahnübergang mit automatischer Zug-Annäherungserkennung.<br>
 Beste Grüße an die Enkel, die tatkräftig mitgewirkt haben.<br>
 Beschreibung und Programm siehe "UR_01 ...".<br> <br>
