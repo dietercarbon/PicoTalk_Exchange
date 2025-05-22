@@ -8,8 +8,8 @@ HERZLICHEN DANK an die "Melder" !!! <br><br>
 Mittlerweile experimentiere ich mit einer sehr einfachen Lösung wie folgt:Man stellt den WDT z.B. fest auf 6 Sekunden ein und führt dann in der Hauptschleife nur bei  jedem zehnten Schleifendurchgang eine Messung tatsächlich durch. Die Hauptschleife selber sollte dann keine großen Verzögerungen oder Wartezeiten haben.  
 Beispiel:<br>
 Man kann den %-Operator nutzen, um zu erreichen, dass eine Aktion z.B. nur bei jedem zehnten Schleifendurchgang tatsächlich ausgeführt wird.  
-if (counter % 10)  == 0:  # Die Variable counter wird  bei jedem Schleifendurchgang um eins erhöht.<br>
-action()  #  Der %-Operator berechnet den Rest einer Division<br>
+if (counter % 10)  == 0: &nbsp;&nbsp;&nbsp; # Die Variable counter wird  bei jedem Schleifendurchgang um eins erhöht.<br>
+action() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  #  Der %-Operator berechnet den Rest einer Division<br>
 
 Man sollte (ggf. mehrmals) den WDT in der Hauptschleife "füttern", damit dieser nicht ungewollt zuschlägt. <br>
 Ich werde jetzt mal  ausprobieren, ob eine entspr. Änderung in dem Programmcode hilft, die Messungen dauerhaft stabil zu betreiben. In ein paar Monaten kann ich dann zuverlässig sagen, ob diese Lösung stabil läuft. Wichtig für mich ist, dass der Pico sich immer wieder selbst neu startet, wenn ein unerwartetes Problem auftritt. Wenn dann mal ein paar Messungen nicht "ankommen", spielt das keine große Rolle. <br>
