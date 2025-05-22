@@ -3,6 +3,10 @@ HERZLICHEN DANK an die "Melder" !!! <br><br>
 
 
 
+9  Uli (Romahn; UR): beschreibt liebevoll und einsteiger-geeignet (!) eine selbstentwickelte Ampelanlage für Bahnübergang mit automatischer Zug-Annäherungserkennung.<br>
+Beste Grüße an die Enkel, die tatkräftig mitgewirkt haben.<br>
+Beschreibung und Programm siehe "UR_01 ...".<br> <br>
+
 8  Johannes (Marko; JM): beschreibt eine selbstkonzipierte "remote Meldestelle" auf Basis LoRa P2P Verbindung, autonom und ohne Gateway.<br>
 Beschreibung siehe "JM_02 ...".<br>
 Programme siehe: https://github.com/trapperjoe/  im Repository "Ereignismeldung".<br> <br>
