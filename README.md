@@ -1,7 +1,7 @@
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
-11  Dieter findet eine für Pico-Lötungen und Lösungen geeignete (Größe und Preis) Streifenplatine:<br>
+12  Dieter findet eine für Pico-Lötungen und Lösungen geeignete (Größe und Preis) Streifenplatine:<br>
 https://www.amazon.de/dp/B085WJ7535?ref=fed_asin_title
 <br><br>
 
