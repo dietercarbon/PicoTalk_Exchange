@@ -1,7 +1,13 @@
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
+11  Dieter findet eine für Pico-Lötungen und Lösungen geeignete (Größe und Preis) Streifenplatine:<br>
+https://www.amazon.de/dp/B085WJ7535?ref=fed_asin_title
+<br><br>
 
+11  Ralf nennt auf Dieters Umfrage nach einem Waveshare-Produkt den passenden Link für einen "großen und günstigen" Touch-Screen:<br>
+https://www.berrybase.de/3-5-zoll-touch-display-modul-fuer-raspberry-pi-pico-65k-farben-480-320-spi
+<br><br>
 
 10  Johannes hat den Watch Dog Timers (WDT) in Micropython genauer untersucht:<br>
 "Ich habe mir das Ganze jetzt noch mal genauer angeschaut und das eigentliche Problem war, dass ich nur ca. ein Mal pro Minute eine gemachte Messung an einen Server melden wollte (einfach um Strom zu sparen für eine Messgröße, die  sich kaum ändert innerhalb einer Minute...) , aber der WDT in Micropython einen Maximalwert von ca. 8 Sekunden hat (s. Aussage unten). Zudem kann es Probleme im WLAN geben, wenn man zu viele Messwerte in kurzer Zeit übertragen will.<br> 
