@@ -5,7 +5,7 @@ HERZLICHEN DANK an die "Melder" !!! <br><br>
 https://www.elektronik-kompendium.de/sites/raspberry-pi/2802141.htm<br>
 
 ... und speziell eine geschickte Methode, auf Programm-Abbrüche automatisch und "manuell" reagieren zu können "Raspberry Pi Pico: Autostart mit Abbruch, Fehlerbehandlung und Neustart":<br>
-https://www.elektronik-kompendium.de/sites/raspberry-pi/2905071.htm<br>
+https://www.elektronik-kompendium.de/sites/raspberry-pi/2905071.htm
 <br><br>
 
 12  Dieter findet eine für Pico-Lötungen und Lösungen geeignete (Größe und Preis) Streifenplatine:<br>
