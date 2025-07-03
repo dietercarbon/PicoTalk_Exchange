@@ -2,7 +2,7 @@
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
 14  Harry (Harald Tietze) unterstützt unsere Suche nach guten Temperatursensoren: der TMP117 mit sensationeller Genauigkeit < 0.1 Grad:<br>
-https://www.ti.com/lit/ds/symlink/tmp117.pdf?ts=1751518805932
+https://www.ti.com/lit/ds/symlink/tmp117.pdf?ts=1751518805932<br>
 https://learn.adafruit.com/adafruit-tmp117-high-accuracy-i2c-temperature-monitor/downloads<br>
 https://www.berrybase.de/adafruit-tmp117-0.10c-hochpraeziser-i2c-temperatursensor
 <br><br>
