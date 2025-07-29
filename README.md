@@ -10,7 +10,7 @@ https://www.berrybase.de/adafruit-tmp117-0.10c-hochpraeziser-i2c-temperatursenso
 16  Patrick (Schnabel; PS): führt eindrucksvoll Offline-Spracherkennung mit Pico vor auf Basis von:<br>
 Gravity: Offline Language Learning Voice Recognition Sensor for Arduino/Raspberry Pi/Python / ESP32 - I2C & UART - SEN0539-EN.<br>
 Bezugsmöglichkeit:  https://www.berrybase.de/dfrobot-gravity-offline-spracherkennungssensor-i2c-uart-121-befehle-370ma-3-5v<br>
-Siehe hierzu auch auf Youtube:
+Siehe hierzu auch auf Youtube:<br>
 https://www.youtube.com/watch?v=CSvMd9mN9Q0<br>
 https://www.youtube.com/watch?v=k7IjKCNlVqk<br><br>
 
