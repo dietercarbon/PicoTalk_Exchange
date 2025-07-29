@@ -7,13 +7,12 @@ https://learn.adafruit.com/adafruit-tmp117-high-accuracy-i2c-temperature-monitor
 https://www.berrybase.de/adafruit-tmp117-0.10c-hochpraeziser-i2c-temperatursensor
 <br><br>
 
-16  Patrick (Schnabel; PS): führt Offline-Spracherkennung mit Pico vor auf Basis von<br>
-Gravity: Offline Language Learning Voice Recognition Sensor for Arduino/Raspberry Pi/Python / ESP32 - I2C & UART - SEN0539-EN<br>
-Bezugsmöglichkeit:  https://www.berrybase.de/dfrobot-gravity-offline-spracherkennungssensor-i2c-uart-121-befehle-370ma-3-5v<br> <br>
-https://wokwi.com/projects/new/micropython-pi-pico <br><br>
-https://wokwi.com/projects/new/micropython-pi-pico <br><br>
-https://wokwi.com/projects/new/micropython-pi-pico <br><br>
-https://wokwi.com/projects/new/micropython-pi-pico <br><br>
+16  Patrick (Schnabel; PS): führt eindrucksvoll Offline-Spracherkennung mit Pico vor auf Basis von:<br>
+Gravity: Offline Language Learning Voice Recognition Sensor for Arduino/Raspberry Pi/Python / ESP32 - I2C & UART - SEN0539-EN.<br>
+Bezugsmöglichkeit:  https://www.berrybase.de/dfrobot-gravity-offline-spracherkennungssensor-i2c-uart-121-befehle-370ma-3-5v<br>
+Siehe hierzu auch auf Youtube:
+https://www.youtube.com/watch?v=CSvMd9mN9Q0<br>
+https://www.youtube.com/watch?v=k7IjKCNlVqk<br><br>
 
 15  Johannes (Marko; JM): stellt "Energie sparen mit Raspberry Pi Pico" vor auf Basis des Timers "Nano-Power System Timer TPL5111".<br>
 Hierdurch kann deutlich die Laufzeit der Stromversorgung erhöht werden.<br>
