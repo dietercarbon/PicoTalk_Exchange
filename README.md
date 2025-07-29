@@ -5,17 +5,17 @@ HERZLICHEN DANK an die "Melder" !!! <br><br>
 Interessierte Eltern, Lehrer oder Engagierte bitte bei Dieter melden.
 Konzept-Entwurf siehe oben "DC_01 ...".<br><br>
 
-17  Harry (Harald Tietze) hat (glücklicherweise) das Waveshare Touch-Display 3.5 (siehe 11) für Pico bereits on Betrieb nehmen können; es hat funktioniert mit Pico und Pico 2, allerdings "ohne W".<br>
+17  Harry (Harald Tietze, HT) hat (glücklicherweise) das Waveshare Touch-Display 3.5 (siehe 11) für Pico bereits on Betrieb nehmen können; es hat funktioniert mit Pico und Pico 2, allerdings "ohne W".<br>
 Test-Programm siehe oben "HT_01 ...".<br><br>
 
-16  Patrick (Schnabel; PS): führt eindrucksvoll Offline-Spracherkennung mit Pico vor auf Basis von:<br>
+16  Patrick führt eindrucksvoll Offline-Spracherkennung mit Pico vor auf Basis von:<br>
 Gravity: Offline Language Learning Voice Recognition Sensor for Arduino/Raspberry Pi/Python / ESP32 - I2C & UART - SEN0539-EN.<br>
 Bezugsmöglichkeit:  https://www.berrybase.de/dfrobot-gravity-offline-spracherkennungssensor-i2c-uart-121-befehle-370ma-3-5v<br>
 Siehe hierzu auch auf Youtube:<br>
 https://www.youtube.com/watch?v=CSvMd9mN9Q0<br>
 https://www.youtube.com/watch?v=k7IjKCNlVqk<br><br>
 
-15  Johannes (Marko; JM): stellt "Energie sparen mit Raspberry Pi Pico" vor auf Basis des Timers "Nano-Power System Timer TPL5111".<br>
+15  Johannes stellt "Energie sparen mit Raspberry Pi Pico" vor auf Basis des Timers "Nano-Power System Timer TPL5111".<br>
 Hierdurch kann deutlich die Laufzeit der Stromversorgung erhöht werden.<br>
 Beschreibung siehe oben: "JM_03 ...".<br>
 Bezugsmöglichkeit:  https://www.berrybase.de/adafruit-tpl5111-low-power-timer-breakout<br> <br>
