@@ -2,7 +2,7 @@
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
 18  Dieter bewirbt den VDI-Ansatz des "Sensorgartens" als MINT-Aktivität für Schulen, bei dem Schüler z.B. Temperatur-, Licht-, Luft-Sensoren im Umfeld ihrer Schule aufsetzen, zentral betreiben und die Daten mit anderen Organisationen teilen.<br>
-Interessierte Eltern, Lehrer oder Engagierte bitte bei Dieter melden.
+Interessierte Eltern, Lehrer oder Engagierte bitte bei Dieter melden.<br>
 Konzept-Entwurf siehe oben "DC_01 ...".<br><br>
 
 17  Harry (Harald Tietze, HT) hat (glücklicherweise) das Waveshare Touch-Display 3.5 (siehe 11) für Pico bereits on Betrieb nehmen können; es hat funktioniert mit Pico und Pico 2, allerdings "ohne W".<br>
