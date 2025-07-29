@@ -1,11 +1,9 @@
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
-14  Harry (Harald Tietze) unterstützt unsere Suche nach guten Temperatursensoren: der TMP117 mit sensationeller Genauigkeit < 0.1 Grad:<br>
-https://www.ti.com/lit/ds/symlink/tmp117.pdf?ts=1751518805932<br>
-https://learn.adafruit.com/adafruit-tmp117-high-accuracy-i2c-temperature-monitor/downloads<br>
-https://www.berrybase.de/adafruit-tmp117-0.10c-hochpraeziser-i2c-temperatursensor
-<br><br>
+17  Harry (Harald Tietze) hat (glücklicherweise) das Waveshare Touch-Display 3.5 für Pico bereits on Betrieb nehmen können; es hat funktioniert mit Pico und Pico 2, allerdings "ohne W".<br>
+Bezugsmöglichkeit:  https://www.berrybase.de/3-5-zoll-touch-display-modul-fuer-raspberry-pi-pico-65k-farben-480-320-spi<br>
+Test-Programm siehe oben "HT_01 ...".<br><br>
 
 16  Patrick (Schnabel; PS): führt eindrucksvoll Offline-Spracherkennung mit Pico vor auf Basis von:<br>
 Gravity: Offline Language Learning Voice Recognition Sensor for Arduino/Raspberry Pi/Python / ESP32 - I2C & UART - SEN0539-EN.<br>
@@ -16,7 +14,7 @@ https://www.youtube.com/watch?v=k7IjKCNlVqk<br><br>
 
 15  Johannes (Marko; JM): stellt "Energie sparen mit Raspberry Pi Pico" vor auf Basis des Timers "Nano-Power System Timer TPL5111".<br>
 Hierdurch kann deutlich die Laufzeit der Stromversorgung erhöht werden.<br>
-Beschreibung siehe "JM_03 ...".<br>
+Beschreibung siehe oben: "JM_03 ...".<br>
 Bezugsmöglichkeit:  https://www.berrybase.de/adafruit-tpl5111-low-power-timer-breakout<br> <br>
 
 14  Harry (Harald Tietze) unterstützt unsere Suche nach guten Temperatursensoren: der TMP117 mit sensationeller Genauigkeit < 0.1 Grad:<br>
@@ -58,11 +56,11 @@ Beste Grüße an die Enkel, die tatkräftig mitgewirkt haben.<br>
 Beschreibung und Programm siehe "UR_01 ...".<br> <br>
 
 8  Johannes (Marko; JM): beschreibt eine selbstkonzipierte "remote Meldestelle" auf Basis LoRa P2P Verbindung, autonom und ohne Gateway.<br>
-Beschreibung siehe "JM_02 ...".<br>
+Beschreibung siehe oben: "JM_02 ...".<br>
 Programme siehe: https://github.com/trapperjoe/  im Repository "Ereignismeldung".<br> <br>
 
 7  Kai (Fuchsberger; KF): beschreibt einen selbstkonzipierten "Stromausfallmelder".<br>
-Beschreibung und Programme siehe "KF_02 ...".<br> <br>
+Beschreibung und Programme siehe oben: "KF_02 ...".<br> <br>
 
 6  Dieter (Carbon; DC): wenn das so funktioniert wie ich GLAUBE, kann "Pimoroni Presto" m.E. ein Gamechanger werden! <br>
 ... habe vorsichtshalber 2 bestellt ... und werde berichten ... spätestens im nächsten PicoTalk. <br>
