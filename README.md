@@ -1,8 +1,7 @@
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
-17  Harry (Harald Tietze) hat (glücklicherweise) das Waveshare Touch-Display 3.5 für Pico bereits on Betrieb nehmen können; es hat funktioniert mit Pico und Pico 2, allerdings "ohne W".<br>
-Bezugsmöglichkeit:  https://www.berrybase.de/3-5-zoll-touch-display-modul-fuer-raspberry-pi-pico-65k-farben-480-320-spi<br>
+17  Harry (Harald Tietze) hat (glücklicherweise) das Waveshare Touch-Display 3.5 (siehe 11) für Pico bereits on Betrieb nehmen können; es hat funktioniert mit Pico und Pico 2, allerdings "ohne W".<br>
 Test-Programm siehe oben "HT_01 ...".<br><br>
 
 16  Patrick (Schnabel; PS): führt eindrucksvoll Offline-Spracherkennung mit Pico vor auf Basis von:<br>
