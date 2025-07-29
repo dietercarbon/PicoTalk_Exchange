@@ -1,7 +1,7 @@
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
-12  Dieter bewirbt den VDI-Ansatz des "Sensorgartens" als MINT-Aktivität für Schulen, bei dem Schüler z.B. Temperatur-, Licht-, Luft-Sensoren im Umfeld ihrer Schule aufsetzen, zentral betreiben und die Daten mit anderen Organisationen teilen.<br>
+18  Dieter bewirbt den VDI-Ansatz des "Sensorgartens" als MINT-Aktivität für Schulen, bei dem Schüler z.B. Temperatur-, Licht-, Luft-Sensoren im Umfeld ihrer Schule aufsetzen, zentral betreiben und die Daten mit anderen Organisationen teilen.<br>
 Interessierte Eltern, Lehrer oder Engagierte bitte bei Dieter melden.
 Konzept-Entwurf siehe oben "DC_01 ...".<br><br>
 
