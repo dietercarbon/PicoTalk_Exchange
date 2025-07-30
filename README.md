@@ -1,6 +1,18 @@
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
+19  Nachtrag zu der von Patrick entwickelten "Selbsthalteschaltung bzw. Auto-Power-Off-Schaltung" (APO):<br>
+APO-Integration zwischen Stromversorgung und Pico:<br>
+https://www.elektronik-kompendium.de/sites/praxis/projekt_auto-power-off-mcu.htm<br>
+APO-Bausatz-Beschreibung:<br>
+https://www.elektronik-kompendium.de/sites/praxis/bausatz_auto-power-off-mcu.htm<br>
+Nur wenn ein Schalter (Taster, End-Schalter, Reed-Kontakt, o.ä.)  ca. 500 ms den APO auf Masse zieht, läuft der Pico hoch, arbeitet sein Programm ab und schaltet sich von der Stromversorgung ab, indem er die Selbsthalteschaltung löst.<br>
+Der Pico wartet auf die nächste Aktivierung. Insofern ist die Energienutzung nur auf die Anwendung bezogen und somit sehr effektiv und Akku/Batterie-schonend.<br><br>
+
+18  Dieter bewirbt den VDI-Ansatz des "Sensorgartens" als MINT-Aktivität für Schulen, bei dem Schüler z.B. Temperatur-, Licht-, Luft-Sensoren im Umfeld ihrer Schule aufsetzen, zentral betreiben und die Daten mit anderen Organisationen teilen.<br>
+Interessierte Eltern, Lehrer oder Engagierte bitte bei Dieter melden.<br>
+Konzept-Entwurf siehe oben "DC_01 ...".<br><br>s 
+
 18  Dieter bewirbt den VDI-Ansatz des "Sensorgartens" als MINT-Aktivität für Schulen, bei dem Schüler z.B. Temperatur-, Licht-, Luft-Sensoren im Umfeld ihrer Schule aufsetzen, zentral betreiben und die Daten mit anderen Organisationen teilen.<br>
 Interessierte Eltern, Lehrer oder Engagierte bitte bei Dieter melden.<br>
 Konzept-Entwurf siehe oben "DC_01 ...".<br><br>
