@@ -1,6 +1,10 @@
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
+20  Alexander (Alexander Arndt, AA, PicoTalk 25.08.2025) stellt seine Platinen für den Pico (siehe AA_01_Rasp_Board_AR.pdf) und RP2040 Zero vor.<br>
+Bei Interesse an Platinen oder dem Thema generell, gerne kontaktieren: Alexander Arndt, <br>
+a.arndt@ar-online.de<br><br>
+
 19  Nachtrag zu der von Patrick entwickelten "Selbsthalteschaltung bzw. Auto-Power-Off-Schaltung" (APO):<br>
 APO-Integration zwischen Stromversorgung und Pico:<br>
 https://www.elektronik-kompendium.de/sites/praxis/projekt_auto-power-off-mcu.htm<br>
