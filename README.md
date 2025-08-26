@@ -13,7 +13,7 @@ Der Pico wartet auf die nächste Aktivierung. Insofern ist die Energienutzung nu
 Interessierte Eltern, Lehrer oder Engagierte bitte bei Dieter melden.<br>
 Konzept-Entwurf siehe oben "DC_01 ...".<br><br>
 
-17  Harry (Harald Tietze, HT) hat (glücklicherweise) das Waveshare Touch-Display 3.5 (siehe 11) für Pico bereits on Betrieb nehmen können; es hat funktioniert mit Pico und Pico 2, allerdings "ohne W".<br>
+17  Harry (Harald Tietze, HT) hat (glücklicherweise) das Waveshare Touch-Display 3.5 (siehe 11) für Pico bereits on Betrieb nehmen können; es hat funktioniert ausschließlich mit Pico 2, allerdings "ohne W".<br>
 Test-Programm siehe oben "HT_01 ...".<br><br>
 
 16  Patrick führt eindrucksvoll Offline-Spracherkennung mit Pico vor auf Basis von:<br>
