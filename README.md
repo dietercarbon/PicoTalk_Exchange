@@ -1,6 +1,9 @@
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
+21  Bernhard erinnert daran, dass die Ausgaben des ELVjournal seit Anfang 2024 kostenfrei als PDF heruntergeladen werden können, siehe:<br>
+https://de.elv.com/elvjournal/alle-ausgaben/  <br><br>
+
 20  Alexander (Alexander Arndt, AA, PicoTalk 25.08.2025) stellt seine Platinen für den Pico (siehe AA_01_Rasp_Board_AR.pdf) und RP2040 Zero vor.<br>
 Bei Interesse an Platinen oder dem Thema generell, gerne kontaktieren: Alexander Arndt, <br>
 a.arndt@ar-online.de<br><br>
