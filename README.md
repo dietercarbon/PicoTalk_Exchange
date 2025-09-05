@@ -1,6 +1,17 @@
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
+22  Dieter ergänzt Patricks Vortsellung (16): <br>
+um a) MP3-Audio-Ausgabemodul mit internem 16MB Speicherplatz, ladbar über USB-Kabel, mit integriertem Lautsprecher: <br>
+DFRobot Voice Prompt Module, Sprachansage-Modul mit integriertem MP3/WAV Player, Lautsprecher, 1W <br>
+bei BerryBase: 8,50 Euro am 05.09.2025 <br>
+https://www.berrybase.de/dfrobot-voice-prompt-module-sprachansage-modul-mit-integriertem-mp3-wav-player-lautsprecher-1w <br>
+um b) Text-zu-Sprach-Ausgabemodul, englisch und chinesisch: <br>
+DFRobot Gravity TTS-Modul, Text zu Sprachausgabe, I2C/UART, integrierter Lautsprecher, 3,3-5V <br>
+bei BerryBase: 29,90 Euro am 05.09.2025 <br>
+https://www.berrybase.de/dfrobot-gravity-tts-modul-text-zu-sprachausgabe-i2c-uart-integrierter-lautsprecher-3-3-5v
+<br><br>
+
 21  Bernhard erinnert daran, dass die Ausgaben des ELVjournal seit Anfang 2024 kostenfrei als PDF heruntergeladen werden können, siehe:<br>
 https://de.elv.com/elvjournal/alle-ausgaben/  <br><br>
 
