@@ -7,7 +7,7 @@ https://major.robocup.de<br><br>
 
 Di 15. - Mo 21.06.2027  **RoboCup Weltmeisterschaft 2027** in Nürnberg<br>
 https://robocup.de/robocup-wm-2027-in-deutschland<br><br>
-
+***
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
