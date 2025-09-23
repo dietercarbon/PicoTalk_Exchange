@@ -2,11 +2,11 @@
 Mi 03.12.2025  18:00 Uhr **PassKey-Party** in Mainz (konkrete Lokation wird ergänzt)<br>
 https://www.vdi.de/veranstaltungen/detail/akis-82-erste-vdi-passkey-party-unter-schirmherrschaft-des-landesdatenschutzbeauftragten-rheinland-pfalz-prof-kugelmann<br><br>
 
-Di 10. - Sa 14.03.2026  18:00 Uhr *PassKey-Party* in Mainz (konkrete Lokation wird ergänzt)<br>
-https://www.vdi.de/veranstaltungen/detail/akis-82-erste-vdi-passkey-party-unter-schirmherrschaft-des-landesdatenschutzbeauftragten-rheinland-pfalz-prof-kugelmann<br><br>
+Di 10. - Sa 14.03.2026  **RoboCup German Open 2026** in Messe Köln<br>
+https://major.robocup.de<br><br>
 
-03.12.2025  18:00 Uhr *PassKey-Party* in Mainz (konkrete Lokation wird ergänzt)<br>
-https://www.vdi.de/veranstaltungen/detail/akis-82-erste-vdi-passkey-party-unter-schirmherrschaft-des-landesdatenschutzbeauftragten-rheinland-pfalz-prof-kugelmann<br><br>
+Di 15. - Mo 21.06.2027  **RoboCup Weltmeisterschaft 2027** in Nürnberg<br>
+https://robocup.de/robocup-wm-2027-in-deutschland<br><br>
 
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
