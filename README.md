@@ -9,7 +9,7 @@ Di 15. - Mo 21.06.2027  **RoboCup Weltmeisterschaft 2027** in Nürnberg<br>
 https://robocup.de/robocup-wm-2027-in-deutschland<br><br>
 ***
 ***Themen & Links*** <br><br>
-HERZLICHEN DANK an die "Melder" !!! <br><br>
+## HERZLICHEN DANK an die "Melder" !!! <br><br>
 
 23  (Jo)Achim (Seeger) hat Mikroprozessor-Erfahrungen, speziell auch zu und im Umfeld vom Pico.<br>
 Er hat einige (leicht untertrieben ;-) ) Informationen in "makerconnect.de" veröffentlicht.<br>
