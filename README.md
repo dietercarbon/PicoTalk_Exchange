@@ -1,4 +1,4 @@
-***Termine*** <br><br>
+###Termine <br><br>
 Mi 03.12.2025  18:00 Uhr **PassKey-Party** Hochschule Mainz und VDI AKIS (Ort: Hochschule Mainz, Lucy-Hillebrand-Straße 2, 55128 Mainz)<br>
 https://www.vdi.de/veranstaltungen/detail/akis-82-erste-vdi-passkey-party-unter-schirmherrschaft-des-landesdatenschutzbeauftragten-rheinland-pfalz-prof-kugelmann<br><br>
 
@@ -8,7 +8,7 @@ https://major.robocup.de<br><br>
 Di 15. - Mo 21.06.2027  **RoboCup Weltmeisterschaft 2027** in Nürnberg<br>
 https://robocup.de/robocup-wm-2027-in-deutschland<br><br>
 ***
-***Themen & Links*** <br><br>
+### Themen & Links <br><br>
 ## HERZLICHEN DANK an die "Melder" !!! <br><br>
 
 23  (Jo)Achim (Seeger) hat Mikroprozessor-Erfahrungen, speziell auch zu und im Umfeld vom Pico.<br>
