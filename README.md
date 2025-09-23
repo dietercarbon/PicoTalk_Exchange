@@ -12,7 +12,7 @@ https://robocup.de/robocup-wm-2027-in-deutschland<br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
 23  (Jo)Achim (Seeger) hat Mikroprozessor-Erfahrungen, speziell auch zu und im Umfeld vom Pico.<br>
-Er hat einige (leicht untertrieben ;-) ) Informationen unter "makerconnect.de" veröffentlicht.<br>
+Er hat einige (leicht untertrieben ;-) ) Informationen in "makerconnect.de" veröffentlicht.<br>
 Unter folgender Adresse tauchen 112 (!) Projekte auf, die anklickbar sind.<br>
 https://www.makerconnect.de/index.php?members/achim-s.2968/#resources<br>
 Unter der Ressource gibt es unter "Übersicht" eine Kurz-Beschreibung und rechts oben kann man über einen grünen Button "Herunterladen" mehrseitige Informationen herunterladen.<br>
