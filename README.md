@@ -1,5 +1,12 @@
 ***Termine*** <br><br>
-03.12.2025  18:00 Uhr PassKey-Party in Mainz (konkrete Lokation wird ergänzt) <br><br>
+Mi 03.12.2025  18:00 Uhr *PassKey-Party* in Mainz (konkrete Lokation wird ergänzt)<br>
+https://www.vdi.de/veranstaltungen/detail/akis-82-erste-vdi-passkey-party-unter-schirmherrschaft-des-landesdatenschutzbeauftragten-rheinland-pfalz-prof-kugelmann<br><br>
+
+Di 10. - Sa 14.03.2026  18:00 Uhr *PassKey-Party* in Mainz (konkrete Lokation wird ergänzt)<br>
+https://www.vdi.de/veranstaltungen/detail/akis-82-erste-vdi-passkey-party-unter-schirmherrschaft-des-landesdatenschutzbeauftragten-rheinland-pfalz-prof-kugelmann<br><br>
+
+03.12.2025  18:00 Uhr *PassKey-Party* in Mainz (konkrete Lokation wird ergänzt)<br>
+https://www.vdi.de/veranstaltungen/detail/akis-82-erste-vdi-passkey-party-unter-schirmherrschaft-des-landesdatenschutzbeauftragten-rheinland-pfalz-prof-kugelmann<br><br>
 
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
