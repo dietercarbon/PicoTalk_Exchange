@@ -11,13 +11,13 @@ https://robocup.de/robocup-wm-2027-in-deutschland<br><br>
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
-23  (Jo)Achim (Seeger) hat Mikroprozessor-Erfahrungen, speziell auch zu und im Umfeld vom Pico.
-Er hat einige (leicht untertrieben ;-) ) Informationen unter "makerconnect.de" veröffentlicht.
-Unter folgender Adresse tauchen 112 (!) Projekte auf, die anklickbar sind.
-https://www.makerconnect.de/index.php?members/achim-s.2968/#resources
-Unter der Ressource gibt es unter "Übersicht" eine Kurz-Beschreibung und rechts oben kann man über einen grünen Button "Herunterladen" mehrseitige Informationen herunterladen.
-Achim bittet um kräftigen Gebrauch ... und um Feedback (Fragen, Kritik, Ergänzungen, usw.) an folgende Mail-Adresse:
-h.j.seeger@web.de
+23  (Jo)Achim (Seeger) hat Mikroprozessor-Erfahrungen, speziell auch zu und im Umfeld vom Pico.<br>
+Er hat einige (leicht untertrieben ;-) ) Informationen unter "makerconnect.de" veröffentlicht.<br>
+Unter folgender Adresse tauchen 112 (!) Projekte auf, die anklickbar sind.<br>
+https://www.makerconnect.de/index.php?members/achim-s.2968/#resources<br>
+Unter der Ressource gibt es unter "Übersicht" eine Kurz-Beschreibung und rechts oben kann man über einen grünen Button "Herunterladen" mehrseitige Informationen herunterladen.<br>
+Achim bittet um kräftigen Gebrauch ... und um Feedback (Fragen, Kritik, Ergänzungen, usw.) an folgende Mail-Adresse:<br>
+h.j.seeger@web.de<br>
 Also an Alle: bitte prüfen und Achim befragen und/oder ihn im PicoTalk ansprechen. <br><br>
 
 22  Dieter ergänzt Patricks Vortsellung (16): <br>
