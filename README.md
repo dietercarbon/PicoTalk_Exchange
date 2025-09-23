@@ -1,3 +1,6 @@
+***Termine*** <br><br>
+03.12.2025  18:00 Uhr PassKey-Party in Mainz (konkrete Lokation wird ergänzt) <br><br>
+
 ***Themen & Links*** <br><br>
 HERZLICHEN DANK an die "Melder" !!! <br><br>
 
