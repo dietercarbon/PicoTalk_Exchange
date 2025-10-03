@@ -14,6 +14,9 @@ https://robocup.de/robocup-wm-2027-in-deutschland<br><br>
 ### Themen & Links <br><br>
 ## HERZLICHEN DANK an die "Melder" !!! <br><br>
 
+24  Wie im PicoTalk (29.09.2025) vorgeschlagen, erstellt Achim eine Liste der ersten 10 von ihm vorgeschlagenen Projekte für Einsteiger.<br>
+Übersicht und Beschreibung siehe "AS_01_ ...".<br> <br>
+
 23  (Jo)Achim (Seeger) hat Mikroprozessor-Erfahrungen, speziell auch zu und im Umfeld vom Pico.<br>
 Er hat einige (leicht untertrieben ;-) ) Informationen in "makerconnect.de" veröffentlicht.<br>
 Unter folgender Adresse tauchen 112 (!) Projekte auf, die anklickbar sind.<br>
